@@ -1,0 +1,129 @@
+
+
+
+
+VIT Bhopal University
+VITyarthi E-Learning Platform
+
+
+Project Report
+CSE0001 – Digital Literacy
+
+
+Field	Details
+Name	Shanya Kushwaha
+Registration No.	[REG NO]
+Branch	B.Tech CSE – AI & ML
+Year	First Year
+Expected Graduation	2029
+Course Code	CSE0001
+Course Title	Digital Literacy
+Date of Submission	28 March 2026
+
+
+
+GitHub Repository
+https://github.com/shanya08-04
+ 
+Introduction
+This project report documents my work as part of the CSE0001 – Digital Literacy course at VIT Bhopal University. The assignment is framed around a practical scenario: I have been selected as a Student Digital Ambassador, and my responsibility is to guide my peers in navigating the digital world safely, professionally, and confidently.
+
+Across five tasks mapped to the five course modules, I have built a Digital Literacy Portfolio that covers creating awareness content, setting up a professional digital presence, exploring coding and collaboration tools, practising professional digital communication, and understanding cybercrime. All deliverables are organised in a public GitHub repository. This report presents my work, observations, and personal reflections for each task. No prior coding background was required, and every tool used is free and browser-based. This project has genuinely helped me connect classroom concepts to real digital habits I will carry forward throughout my engineering journey.
+ 
+Task 1 – Digital Literacy Awareness Infographic
+Overview
+For this task, I was required to create a single-page visual resource to help my batchmates understand what Digital Literacy means and why it matters in today's world.
+
+Tool Used
+I chose Canva (canva.com) to design my infographic. Canva is a free, browser-based graphic design tool that offers a wide range of templates, icons, and layout options — making it ideal for creating visually appealing educational content without any graphic design experience.
+
+What My Design Shows
+My infographic covers the following five topics:
+•	What Digital Literacy is and why it matters for engineering students
+•	Safe internet practices (avoiding phishing, using strong passwords)
+•	Building a professional online presence on platforms like GitHub and LinkedIn
+•	Email etiquette — the do's and don'ts of writing professional emails
+•	Useful digital tools for students (Google Workspace, HackerRank, Canva)
+
+Reflection
+The most interesting part of this task was learning how to communicate technical ideas visually. I discovered that less text and more icons actually makes information easier to absorb — something I had not consciously thought about before. The part I found most challenging was keeping the layout balanced: every time I added a new section, other elements would shift and I had to reorganise the grid. Overall, this task gave me a practical introduction to design thinking, and I found myself genuinely enjoying the creative process — which connects well with my personal interest in drawing and visual art.
+ 
+Task 2 – Student Digital Portfolio
+Overview
+This task required me to build my foundational professional digital presence by creating or updating accounts on platforms that are relevant to students, researchers, and the tech industry.
+
+Platforms Set Up
+I set up and updated three platforms:
+•	GitHub (github.com/shanya08-04) – GitHub is the world's leading code hosting and version control platform. I created a profile README repository that introduces me, mentions my branch (B.Tech CSE – AI & ML), year, and what I hope to learn during my four years. GitHub will be central to all my future coding projects and portfolio building.
+•	LinkedIn (linkedin.com/in/shanya-kushwaha-1886383b1) – LinkedIn is the global professional networking platform used by employers, recruiters, and academic communities. I filled in my Education section with my current degree, institution (VIT Bhopal University), and expected graduation year (2029). LinkedIn will become increasingly important as I approach internships and job applications.
+•	Kaggle (kaggle.com) – Kaggle is a platform for data science competitions, datasets, and learning notebooks. Since my branch focuses on Artificial Intelligence and Machine Learning, Kaggle will be a key platform for practising ML concepts, finding public datasets, and eventually competing in challenges as my skills grow.
+
+Reflection & Future Plans
+Setting up these profiles made me realise how early professional digital presence building actually begins. Over the next four years, I plan to use GitHub to document every project I build — starting from small HTML pages to eventually full-stack or ML-powered applications. On LinkedIn, I intend to post about my learning milestones and connect with professionals in AI and frontend development. On Kaggle, I hope to participate in beginner competitions by my second year once my Python and data science skills are stronger. This task helped me understand that these platforms are not just for job hunting — they are active learning and networking tools.
+ 
+Task 3 – Coding & Collaboration Platforms
+Overview
+This task had two parts: exploring a coding practice platform and building a collaborative digital resource using Google Workspace tools.
+
+Part A – Coding Practice: HackerRank
+I created an account on HackerRank (hackerrank.com) and completed the 'Solve Me First' beginner challenge — a straightforward problem that asks you to read two integers and print their sum. While the logic was simple, the experience of submitting code in an online judge environment, reading the problem statement carefully, and verifying my output against test cases was genuinely new and useful. HackerRank also showed me its skill tracks in Python, SQL, and Problem Solving — all of which I plan to work through systematically. I have basic Python knowledge from school and this task gave me the confidence to build on it further.
+
+Part B – Google Form: Digital Literacy Awareness Quiz
+I created a five-question Digital Literacy Awareness Quiz using Google Forms. The quiz is designed for first-year students and includes:
+•	One multiple choice question on identifying phishing emails
+•	One short answer question asking students to name two digital tools they use daily
+•	One multiple choice question on email etiquette
+•	One true/false question on UPI safety
+•	One short answer question on what students would do if they received a suspicious link
+
+The form is linked to a Google Sheet that automatically collects and organises responses — a feature I found remarkably efficient for data collection. I have added a screenshot of both the form and the response sheet to the task-3-platforms/ folder.
+
+Reflection
+This task showed me how powerful free tools can be when used thoughtfully. HackerRank gave me a structured way to practise coding with immediate feedback, while Google Forms demonstrated how collaboration tools can be used not just for surveys but for real academic purposes like quizzes and data collection. Both platforms will be part of my academic toolkit going forward.
+ 
+Task 4 – Professional Email & Etiquette Guide
+Overview
+This task focused on professional digital communication — one of the most underrated yet critical skills for students entering university life and eventually the workforce.
+
+Emails Drafted
+I drafted two professional emails (both saved in task-4-email-etiquette/):
+•	Email 1 to a professor requesting a three-day extension on the CSE0001 project submission. I was careful to open with a respectful greeting, state the reason clearly and briefly, make a specific and reasonable request, and close with gratitude and a professional sign-off.
+•	Email 2 to an internship coordinator expressing interest in a summer internship. This email required a slightly different tone — confident but not overreaching — and needed to briefly highlight my skills (Python, HTML, frontend interest) while linking to my GitHub portfolio.
+
+Social Media Checklist
+I also created a Social Media Do's and Don'ts checklist (saved as social-media-checklist.md) with seven points in each category. Key do's include keeping profiles professional, sharing your learning publicly, and engaging respectfully. Key don'ts include posting personal information, venting about academic issues online, and clicking unverified links from DMs.
+
+Communication Scenario & Reflection
+A situation that illustrates the cost of poor digital communication: In 2017, a medical student in India lost a job offer after a recruiter discovered that their social media profile contained posts making fun of their college exams and professors. The posts were years old but still publicly visible. What could have been done differently? The student could have regularly reviewed their privacy settings, set older posts to 'friends only', and thought about long-term audience before posting. This example taught me that everything we post online creates a permanent record — and that record can have real professional consequences even years later. I will personally audit my own social media profiles as a result of this task.
+ 
+Task 5 – Cybercrime Awareness: Phishing
+Overview
+This task required me to research a cybercrime type, write a detailed case study, and build a prevention checklist targeted at college students in India.
+
+Cybercrime Type: Phishing
+I chose phishing because it is the most widespread and frequently evolving cybercrime, and one that college students encounter almost immediately — through fake exam portal emails, scholarship fraud messages, and impersonation attacks on social media.
+
+Case Study Summary
+My case study (casestudy.md) describes a realistic scenario in which a first-year student named Riya receives an email that appears to come from her university's exam portal. The email warns her that her semester registration will be cancelled unless she verifies her credentials within 24 hours — a classic urgency-based phishing trigger. The fake website she is directed to captures her login credentials, which the attacker then uses on the real portal. The case study explains the five-step attack process, who is typically targeted, and the academic and personal consequences.
+
+Prevention Checklist
+My prevention-checklist.md includes ten actionable tips, including two specific to UPI/financial safety: never scan QR codes sent by strangers for 'receiving' money, and always set a daily UPI transaction limit. The checklist also includes official reporting channels: cybercrime.gov.in and Helpline 1930.
+
+Reflection
+What surprised me most while researching phishing was how convincing modern phishing emails have become — many of them now pass basic grammar and visual checks. I had always assumed that spelling errors were a reliable red flag, but that is no longer always true. The habit I will personally change is to always verify the actual URL of any website before entering my credentials, rather than trusting how the page looks. I will also enable Two-Factor Authentication on every account that supports it — something I had been putting off until now.
+ 
+Conclusion
+Completing this Digital Literacy Portfolio has been one of the most practically useful assignments I have encountered in my first year of engineering. Unlike traditional examinations, this project required me to actually use the tools, platforms, and skills being assessed — which made the learning concrete and memorable.
+
+I now have a GitHub repository, a LinkedIn profile, a Kaggle account, experience with HackerRank, a published Google Form, and a clear understanding of phishing and online safety. More importantly, I have begun to think of my digital footprint as something I am actively building and responsible for — not just a passive by-product of being online. I look forward to continuing to grow this portfolio throughout my four years at VIT Bhopal University.
+
+References
+•	Canva – Free Graphic Design Tool: https://www.canva.com
+•	GitHub – Code Hosting Platform: https://github.com
+•	LinkedIn – Professional Networking: https://www.linkedin.com
+•	Kaggle – Data Science Platform: https://www.kaggle.com
+•	HackerRank – Coding Practice: https://www.hackerrank.com
+•	Google Forms – Survey & Quiz Tool: https://forms.google.com
+•	National Cyber Crime Portal: https://cybercrime.gov.in
+•	Cyber Crime Helpline: 1930 (24x7, Government of India)
+•	VITyarthi E-Learning Platform: VIT Bhopal University
