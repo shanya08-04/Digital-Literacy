@@ -62,7 +62,7 @@ digital-literacy-project/
 | GitHub Profile | https://github.com/shanya08-04 |
 | LinkedIn | https://www.linkedin.com/in/shanya-kushwaha-1886383b1 |
 | Google Form (Digital Literacy Quiz) | [Add your Google Form link here] |
-| Canva Infographic | [Add your Canva link here] |
+| Canva Infographic | |https://www.canva.com/design/DAHFQtor3HA/Mys18qrLQqzqs2hnCxkgXA/view?utm_content=DAHFQtor3HA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a9eb90977
 
 ---
 
